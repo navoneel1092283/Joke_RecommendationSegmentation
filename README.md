@@ -1,2 +1,2 @@
 # Joke_Recommendation_Segmentation
-RBM Based Joke Recommendation System and Joke Reader Segmentation
+RBM Based Joke Recommendation System and Joke Reader Segmentation. This repository contains the code for the paper by the same name by myself (Navoneel Chakrabarty), Srinibas Rana, Siddhartha Chowdhury and Ronit Maitra. It is published as a chapter in the book, Pattern Recognition and Machine Intelligence published at Springer Lecture Notes in Computer Science (LNCS) series. This paper was accepted at the 8th International Conference in Pattern Recognition and Machine Intelligence (PReMI), 2019 held at Tezpur Univerity, Tezpur, Assam, India
